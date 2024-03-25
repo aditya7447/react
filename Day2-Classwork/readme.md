@@ -1,3 +1,3 @@
 # Hosted link
 >
-https://aditya7447.github.io/react/Day2-Classwork/
+https://react-sigma-pearl.vercel.app/)https://react-sigma-pearl.vercel.app/
